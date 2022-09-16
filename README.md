@@ -1,4 +1,4 @@
-# Dayer
+# dayer
 
 A new Flutter project.
 
